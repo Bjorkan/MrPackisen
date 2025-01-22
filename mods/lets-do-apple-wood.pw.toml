@@ -1,0 +1,13 @@
+name = "[Let's Do] Apple Wood"
+filename = "letsdo-applewood-forge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4f76d3d665ba7362c677f13438994e68d2ad70d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6109123
+project-id = 1037047

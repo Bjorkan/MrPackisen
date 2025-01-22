@@ -1,0 +1,13 @@
+name = "MrModpackisen"
+author = "RavenHamster"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d8d35ec8fd165b8539c2e1b10a3590f89d23c4fb4dc3a75bffada98a55d20c0"
+
+[versions]
+forge = "47.3.22"
+minecraft = "1.20.1"

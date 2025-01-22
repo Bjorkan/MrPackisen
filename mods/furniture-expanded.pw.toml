@@ -1,0 +1,13 @@
+name = "Furniture Expanded"
+filename = "furnitureexpanded-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1ACi6eg/versions/DwW7STul/furnitureexpanded-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "fc41e4bb80b80748696c764f417dcbc6bc8a6fcff7b7b8547e0f212f1983cd8c6c28b13d2b9d485be0ea6b18f992ad4b4f4c5e2bfd2fb67a398b86e515b0a0b1"
+
+[update]
+[update.modrinth]
+mod-id = "U1ACi6eg"
+version = "DwW7STul"

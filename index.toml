@@ -6,6 +6,11 @@ hash = "8a04d34001ac7668cdfc0e04c271bc15e43e3384dd931611c1a783d13723690f"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "932d2590a6e5c387c5968ebd27015dc4e407e19cccb013981c7a1db0012f5940"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
 metafile = true
@@ -121,6 +126,11 @@ hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "2e1c09122ed42f2e70e5f2e89b710b82c49a183153a3dc6a3cb11ed8c5d44f53"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
 metafile = true
@@ -151,6 +161,11 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "83de6df5b8c8c3642e9dfdba883e45c10c0e5360642420aa68de4af0886bd90d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
@@ -158,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "dc5120c1a6e91cd9c3ffd93190e3e093d1013ee5f55c6a3feb64d9f43f5f14fd"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "00b99c6e27a898bd4032cf5e20b08e8b6c807c194d846f999aa6c4babb829cee"
 metafile = true
 
 [[files]]
@@ -246,6 +266,21 @@ hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "19afec92ca63d9dfbe9cecac8e33364a6a193d655f6341cb693b9a933880520a"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "cf269b34aad2ad418d1488acb8feef4125bb17fc0f3dab819222e610ac66c5e2"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
 metafile = true
@@ -288,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "a6c51068081c61647d8f4bfdbc6ef351d150622e921ebdca3efe4b45ecb6fd07"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "ebf8fb25a5a9cb17121a987d40b8ba2a5e5bcf55195dfebedaafe15162bb162f"
 metafile = true
 
 [[files]]
@@ -343,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2266cb1da126b45b30bf361cb9126fdb48e731587be34ffe79006eb882a757ca"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "83b388f6701f0c2c3fa4cfe66b377df00c2d1f30132ff4426694f21bc4f2052e"
 metafile = true
 
 [[files]]

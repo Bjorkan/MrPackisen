@@ -1,0 +1,13 @@
+name = "AdvancedAE"
+filename = "AdvancedAE-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rxYaglEe/versions/ZcWOIA3x/AdvancedAE-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "88f15d0f9e5f87be23fade39869a5aacc8a5f007f5f788ee537547f9b6a413d8cdaa1006d391c9af6fed5a63bdbd511bec11e5b54b33c3dd9422b1209d97766f"
+
+[update]
+[update.modrinth]
+mod-id = "rxYaglEe"
+version = "ZcWOIA3x"

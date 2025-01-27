@@ -411,6 +411,16 @@ hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
+metafile = true
+
+[[files]]
 file = "mods/surface-mushrooms.pw.toml"
 hash = "a05e2846776c83ff3e621139441db1d55fe6e90725b82a923a3068c82fca435a"
 metafile = true
@@ -423,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "051b7f25d46c03347b97846f09fc0c613eca6957aba027483a4cf513db6b79c4"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
 metafile = true
 
 [[files]]

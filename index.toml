@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "0da374c8d515130f459027cb737c27e59f18ffa4b57796b946893159987d0562"
+hash = "9dae802973a30aed624261c4dbae65643ea656c337a0cba936e06427aa66023e"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "b78869f4096ec21561e2ee9b72db06ddb651f0f6942a9b7fa5812cbb8841d9ed"
 metafile = true
 
 [[files]]

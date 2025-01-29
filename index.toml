@@ -509,7 +509,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Logo.zip"
-hash = "17a258cfbba726733ad1ccc205d7a604b4348c0eb27d722b7ee33a6b1a15d442"

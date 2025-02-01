@@ -16,6 +16,11 @@ hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "87b09eb7f4e82356400862f3e9dcfbe2dc5bdb04d19c35df12382242815e7c8b"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "b84646283690a60b7759c6fd4ddef324225de6ea2eb99d4a4bdc1af78bddcdd5"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "e86f6cb8be0b72ee9920dd3745fec63eb46300d06ae78e3beb5a08dedc8ed46b"
 metafile = true
 
 [[files]]
@@ -148,6 +158,21 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
@@ -336,6 +361,11 @@ hash = "dcd4e240c0a28f6f1f7899aa3c80193894791e7a44b7759e22787cf24f83ea1f"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory-reforged.pw.toml"
 hash = "884077a9c03829e0006652708f2e5f459f6f727390e003ee815b6abf40936a56"
 metafile = true
@@ -371,8 +401,18 @@ hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
 metafile = true
 
 [[files]]
@@ -458,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "89f2262602d0a6b145297fcb5d4667a219b09a19467de1130f2e078a39078229"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Any Lanterns!"
+filename = "any_lanterns_1.2_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "169f40fce023cb4468bfa17c26d1f1553d9e49c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5891314
+project-id = 913390

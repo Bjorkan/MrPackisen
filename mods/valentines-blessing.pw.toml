@@ -1,0 +1,13 @@
+name = "Valentine's Blessing (Lilypads, Roses, Cakes)"
+filename = "valentinesblessing 1.0.0 1.20.1 forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "751c6f0cd64848bf82d99489c4551638562951da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5117036
+project-id = 900437

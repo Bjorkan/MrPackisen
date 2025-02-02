@@ -26,6 +26,11 @@ hash = "b84646283690a60b7759c6fd4ddef324225de6ea2eb99d4a4bdc1af78bddcdd5"
 metafile = true
 
 [[files]]
+file = "mods/any-lanterns.pw.toml"
+hash = "0589015f35a926e5939e9eb6ee4931b0109992405bdfad2867d766174a1eae6a"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
 metafile = true
@@ -46,6 +51,11 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "5e3ff30d77ab34aba80c887c01838d408a20e4730726c98feffbf15c568a7b5b"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
@@ -58,6 +68,21 @@ metafile = true
 [[files]]
 file = "mods/beautify.pw.toml"
 hash = "bb546c2ccaa10d11d563b5600e9d0000fbe66e3ec07a0b19b126b311dd50ab6e"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "4f25f116d1264b752ac1f14e6f870b68b6e31345477b9bc9ab5cb5a3c0812bfa"
+metafile = true
+
+[[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "4918f14c39b330cbad7d796700b6d2f7e4bf3a6ad334a43ab58accd0891ea20a"
 metafile = true
 
 [[files]]
@@ -81,8 +106,18 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "84c4b7a5345637f1653938542b08cfd99b52932daf36d7d89420cb77d786a395"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
+metafile = true
+
+[[files]]
+file = "mods/colored-bricks-mod.pw.toml"
+hash = "760fbf3f201bf2ad8be347a75423f3f5be125a66ffc976b4bd0d65f868bdeaa5"
 metafile = true
 
 [[files]]
@@ -113,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "8db1cd4c66964aa6c04de1b55e81fc4db49692bf3b2666aacd588a7bfe95eec2"
 metafile = true
 
 [[files]]
@@ -321,6 +361,11 @@ hash = "447e33b5d0417c5ff551e56760ffe08ab83cb4272627f727539fe0e47e2a781d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "4494c0ca2e7bcf5dc0193e4dc1aa37a0cb868ed40b002b8729bb16658b423dfb"
+metafile = true
+
+[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "df562b78542f19d3855a65bc9790662bbeaaed52ebd491a9ebce67882b9d537a"
 metafile = true
@@ -391,6 +436,11 @@ hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
 metafile = true
 
 [[files]]
+file = "mods/orva-alarms.pw.toml"
+hash = "5049bfd85aad732550688cfb8a8500e755fe3d7495a55a63ed30450b2453c8bb"
+metafile = true
+
+[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "803744884598671209119607aa7a57775d06568c3ec6802af57f47979f47cbbd"
 metafile = true
@@ -451,6 +501,11 @@ hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "834f90fa134d284524222d08e209d88b469f1c39899572e84613ead42060ff1a"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
 metafile = true
@@ -458,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
+metafile = true
+
+[[files]]
+file = "mods/soots-sandwichcraft.pw.toml"
+hash = "ae5aa1d9e7cc0e0a9cca555c7bcfbc58124b3b8830296f202d9d25f7dbb78d0d"
 metafile = true
 
 [[files]]
@@ -476,6 +536,16 @@ hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a91067d97f099e488fba04f9b7f20dbb4096d04e597380db38c42994949c43d8"
+metafile = true
+
+[[files]]
+file = "mods/supplementariess-delight.pw.toml"
+hash = "62680ff9bc230848ecb244a18b3253f8f921ce49d1f3c67746967ba7c2361990"
+metafile = true
+
+[[files]]
 file = "mods/surface-mushrooms.pw.toml"
 hash = "a05e2846776c83ff3e621139441db1d55fe6e90725b82a923a3068c82fca435a"
 metafile = true
@@ -483,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
@@ -503,6 +578,16 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
+metafile = true
+
+[[files]]
+file = "mods/valentines-blessing.pw.toml"
+hash = "f1a6c22e3ed3368b5bb1a6d5544313c4e2087fe88a4e2c94bc919af9d43baa2f"
+metafile = true
+
+[[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "7a5342fe4e681583f858d69d56293f9a128bb88c902a3816e4ee71b8c981aa07"
 metafile = true
 
 [[files]]

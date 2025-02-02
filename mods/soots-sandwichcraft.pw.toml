@@ -1,0 +1,13 @@
+name = "Soot's Sandwichcraft"
+filename = "sootsandwichcraft1.2.3[1.20.1].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ff81619cb3f0932d0ff2a9fbedf5ab8be1be2e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4965663
+project-id = 843889

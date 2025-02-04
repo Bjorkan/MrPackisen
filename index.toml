@@ -66,6 +66,11 @@ hash = "bb546c2ccaa10d11d563b5600e9d0000fbe66e3ec07a0b19b126b311dd50ab6e"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -116,6 +121,11 @@ hash = "760fbf3f201bf2ad8be347a75423f3f5be125a66ffc976b4bd0d65f868bdeaa5"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "71249184c5506b137bed55fe2014637a34ff4f7fc79be9d7e416fcc7dbd7a6f7"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "b78869f4096ec21561e2ee9b72db06ddb651f0f6942a9b7fa5812cbb8841d9ed"
 metafile = true
@@ -148,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "8db1cd4c66964aa6c04de1b55e81fc4db49692bf3b2666aacd588a7bfe95eec2"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
 metafile = true
 
 [[files]]
@@ -288,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
@@ -386,6 +411,11 @@ hash = "cf269b34aad2ad418d1488acb8feef4125bb17fc0f3dab819222e610ac66c5e2"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
 file = "mods/merequester.pw.toml"
 hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
@@ -471,8 +501,8 @@ hash = "ebf8fb25a5a9cb17121a987d40b8ba2a5e5bcf55195dfebedaafe15162bb162f"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
@@ -513,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/soots-sandwichcraft.pw.toml"
 hash = "ae5aa1d9e7cc0e0a9cca555c7bcfbc58124b3b8830296f202d9d25f7dbb78d0d"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]

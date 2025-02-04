@@ -16,6 +16,11 @@ hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "87b09eb7f4e82356400862f3e9dcfbe2dc5bdb04d19c35df12382242815e7c8b"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
 metafile = true
 
 [[files]]

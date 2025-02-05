@@ -386,6 +386,11 @@ hash = "be126314758f0ff2a70b56825f698c9ea6a72ce537d5327a3f013962ec4db352"
 metafile = true
 
 [[files]]
+file = "mods/lucky77.pw.toml"
+hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
 metafile = true

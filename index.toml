@@ -566,11 +566,6 @@ hash = "ae5aa1d9e7cc0e0a9cca555c7bcfbc58124b3b8830296f202d9d25f7dbb78d0d"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
-metafile = true
-
-[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true

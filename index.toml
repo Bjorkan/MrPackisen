@@ -216,8 +216,8 @@ hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
 metafile = true
 
 [[files]]
-file = "mods/extended-ae.pw.toml"
-hash = "2e1c09122ed42f2e70e5f2e89b710b82c49a183153a3dc6a3cb11ed8c5d44f53"
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "465a08b94fd481587895e2f23725ed7d62a88a8df9274a15dd647c648e21b63e"
 metafile = true
 
 [[files]]
